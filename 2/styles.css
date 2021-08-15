@@ -1,0 +1,75 @@
+body{
+    background-color: #6956ae;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+header{
+    position: relative;
+    margin: 0 auto;
+    width: 1300px;
+    height: 80px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #6956ae;
+}
+
+.p{
+    position: absolute;
+    bottom: 0;
+    left: 83px;
+}
+
+.ul{
+    position: absolute;
+    bottom: 0;
+    right: 83px;
+}
+
+header ul li{
+    display: inline-block;
+    margin-left: 30px;
+}
+
+.div{
+    position: relative;
+    width: 1300px;
+    margin: 0 auto;
+}
+
+.camera{
+    position: absolute;
+    right: -65px;
+    top: 50%;
+    margin-top: -150px;
+
+}
+
+.red{
+    position: absolute;
+    left: -165px;
+    top: 50%;
+    margin-top: -250px;
+
+}
+
+.ipad{
+    position: absolute;
+    left: 50%;
+    margin-left: -295px;
+    bottom: 0;
+    
+
+}
+
+form{
+    position: absolute;
+    width: 650px;
+    height: 300px;
+    right: 280px;
+    top: 120px;
+    
+}
+
+.btn{
+    display: block;
+    margin-top: 15px;
+}
